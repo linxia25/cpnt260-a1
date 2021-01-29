@@ -1,6 +1,9 @@
 # CPNT 260: Web Design Fundamentals
 By Xia Lin January 28£¬2021
 
+## Description
+A website for online sales of high-end furniture!
+
 ## Attributions
 - [Logo](https://www.designevo.com/ "Logo") by DesignEvo
 - [bed](https://www.structube.com/ "bed") bY STRUCTUBE
