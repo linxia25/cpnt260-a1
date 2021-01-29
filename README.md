@@ -11,7 +11,7 @@ By Xia Lin January 28£¬2021
 
 ## Links
 GH repo: https://github.com/linxia25/cpnt260-a1
-GH Pages site: 
+GH Pages site: https://linxia25.github.io/cpnt260-a1/
 
 ## File/directory
 - /css
