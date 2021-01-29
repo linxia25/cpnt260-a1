@@ -5,12 +5,13 @@ By Xia Lin January 28£¬2021
 A website for online sales of high-end furniture!
 
 ## Attributions
-- [Logo.png](https://www.designevo.com/ "Logo") by DesignEvo
-- [bed.png](https://www.structube.com/ "bed") bY STRUCTUBE
-- [chair.png](https://www.structube.com/ "chair") by STRUCTUBE
-- [sofa.png](https://www.structube.com/ "sofa") by STRUCTUBE
-- [sofa-bed.png](https://www.structube.com/ "sofa-bed") by STRUCTUBE
-- [table.png](https://www.structube.com/ "table") by STRUCTUBE
+- [Logo.png](https://www.designevo.com/ "Logo") by DesignEvo.
+- [bed.png](https://www.pexels.com/photo/brown-wooden-bed-inside-bedroom-3773575/ "bed") by Curtis Adams.
+- [chair.png](https://www.pexels.com/photo/two-assorted-color-padded-chairs-near-side-table-1350789/ "chair") by Eric Montanah.
+- [sofa.jpg](https://www.pexels.com/photo/2-seat-orange-leather-sofa-beside-wall-1866149/ "sofa") by Martin P¨¦chy.
+- [sofa-bed.png](https://www.pexels.com/photo/empty-bedroom-set-1648768/ "sofa-bed") by Victoria Borodinova.
+- [table.jpg](https://www.pexels.com/photo/glass-bottle-filled-with-black-straw-on-brown-wooden-table-890669/ "table") by Juan Pablo Serrano Arenas.
+- [accent-table.jpg](https://www.pexels.com/photo/white-and-black-desk-beside-bed-and-window-439227/"accent-table.jpg"£©by Medhat Ayad.
 
 ## Links
 - GH repo: https://github.com/linxia25/cpnt260-a1
